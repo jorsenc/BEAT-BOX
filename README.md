@@ -4,6 +4,8 @@ Un secuenciador de batería web interactivo con síntesis de audio pura, visuali
 
 ## 🎧 Demo
 
+https://beat-box-alpha.vercel.app/
+
 Abre `index.html` directamente en tu navegador moderno (Chrome, Firefox, Edge o Safari).
 
 ## ✨ Características
